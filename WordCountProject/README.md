@@ -1,7 +1,8 @@
 Spark Advanced Wordcount Program using
 
 	1.Resilient Distributed Datsets (RDD)
-	2.Datasets
+	2.Dataset
+	3.SparkSQLs
 
 Note:- Following Words are treated as same
 	HOURS -> hours
