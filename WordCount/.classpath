@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/avro-mapred-1.7.7-hadoop2.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/hadoop-annotations-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/hadoop-auth-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/hadoop-client-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/hadoop-common-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/hadoop-hdfs-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/hadoop-mapreduce-client-app-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/hadoop-mapreduce-client-common-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/hadoop-mapreduce-client-core-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/hadoop-mapreduce-client-jobclient-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/hadoop-mapreduce-client-shuffle-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/hadoop-yarn-api-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/hadoop-yarn-client-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/hadoop-yarn-common-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/hadoop-yarn-server-common-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/hadoop-yarn-server-web-proxy-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/parquet-hadoop-1.8.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/parquet-hadoop-bundle-1.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/spark-core_2.11-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rushikesh/Documents/Hadoopmain/spark-2.3.0-bin-hadoop2.7/jars/scala-library-2.11.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
